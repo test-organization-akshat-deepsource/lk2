@@ -8,3 +8,4 @@ name = "python"
 
 [[code-formatters]]
 name = "black"
+enabled = True
